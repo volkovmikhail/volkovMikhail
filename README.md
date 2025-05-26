@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @volkovMikhail
-- 👀 I’m interested in Node.js
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on Node.js
+- 👋 Hi, I’m @volkovmikhail
+- 👀 I’m interested mostly in javascript and some old minecraft java plugins/servers.
+- 🌱 I’m currently working as backend node.js engineer and in my free time im working on betaheads.net minecraft server.
 - 📫 How to reach me volkov.work1@gmail.com
